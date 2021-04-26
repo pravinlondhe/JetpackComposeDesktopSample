@@ -3,8 +3,8 @@
 * Screenshots
 
 ![Screenshot-1]
-(https://github.com/pravinlondhe/JetpackComposeDesktopSample/blob/master/screenshots/Screenshot%202021-04-26%20at%207.57.25%20PM.png)
+(https://github.com/pravinlondhe/JetpackComposeDesktopSample/blob/master/screenshots/Screenshot-1.png)
 
 
 ![Screenshot-2]
-(https://github.com/pravinlondhe/JetpackComposeDesktopSample/blob/master/screenshots/Screenshot%202021-04-26%20at%207.57.42%20PM.png)
+(https://github.com/pravinlondhe/JetpackComposeDesktopSample/blob/master/screenshots/Screenshot-2.png)
